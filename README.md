@@ -4,8 +4,8 @@ Ecommerce companies suffer from an over abundance of data which comes from diffe
 Context - Most ecommerce companies have Seasonal Sales (Black Friday/Cyber Monday) and clearances End of Season, Sample Sales. These sales have a dramatic effect on purchase volumes since prices can drop upto 50% off of MSRP. Further, we can safely assume that women are aware of this practice and adjust their purchase behavior accordingly.
  
 This has two implications -
-1.     Price and Discount strategies have big impacts on overall profitability. A 1% increase in profitability equates to well over $200K in incremental revenue.
-2.     As a company runs media campaigns to build awareness, people will delay their time of purchase to align with a sale cycle. Knowing how a sale will perform given a final price is a key piece of media planning 
+* Price and Discount strategies have big impacts on overall profitability. A 1% increase in profitability equates to well over $200K in incremental revenue.
+* As a company runs media campaigns to build awareness, people will delay their time of purchase to align with a sale cycle. Knowing how a sale will perform given a final price is a key piece of media planning 
 
 ## Business Problem 
 There are two elements to this problem. 
